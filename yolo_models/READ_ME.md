@@ -124,13 +124,4 @@ will be created with:
 
 This code is provided for educational and research purposes. No warranty is expressed or implied.
 
-```
-
----
-
-Let me know if you’d like:
-- A version with screenshots or video output stills
-- A student-facing `README` for a biomechanics lab context
-- A version that includes markdown badges (e.g., Python version, Colab link)
-```
 
