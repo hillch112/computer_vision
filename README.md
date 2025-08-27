@@ -4,7 +4,7 @@ This repository is dedicated to developing **computer vision–based tools** for
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 The primary goal of this project is to support **undergraduate biomechanics instruction** through interactive, computer vision–driven analysis of human movement. Whether it’s analyzing squats, bicep curls, gait patterns, or other fundamental motor actions, this repo provides open tools and models to:
 
@@ -15,7 +15,7 @@ The primary goal of this project is to support **undergraduate biomechanics inst
 
 ---
 
-## 🛠️ Features
+## Features
 
 - ✅ YOLOv8 Pose and MediaPipe Holistic-based examples
 - ✅ Joint angle calculation and overlay on videos
@@ -26,7 +26,7 @@ The primary goal of this project is to support **undergraduate biomechanics inst
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each file or folder in the repository corresponds to a specific use case or model:
 
@@ -41,7 +41,7 @@ Each file or folder in the repository corresponds to a specific use case or mode
 
 ---
 
-## 🔍 Use in the Classroom
+## Use in the Classroom
 
 This repo is ideal for:
 - Biomechanics and kinesiology lab assignments
@@ -53,7 +53,7 @@ Students can record their own movement with a smartphone, upload it to Google Co
 
 ---
 
-## 💡 How to Get Started
+## How to Get Started
 
 1. Clone or fork this repository
 2. Open a provided `.ipynb` file in [Google Colab](https://colab.research.google.com/)
@@ -64,11 +64,11 @@ Students can record their own movement with a smartphone, upload it to Google Co
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
-We encourage educators, students, developers, and biomechanics researchers to:
+I encourage educators, students, developers, and biomechanics researchers to:
 - Submit new analysis examples
 - Add support for new model types (e.g., OpenPose, BlazePose)
 - Improve visualization tools and performance
@@ -81,13 +81,13 @@ To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-## 📫 Contact
+## Contact
 
-For questions, collaborations, or classroom integration inquiries, please reach out via GitHub Issues or submit a discussion topic in the Community tab.
+For questions, collaborations, or classroom integration inquiries, please reach out via GitHub Issues or submit a discussion topic in the Community tab. Additionally, you can contact me at hillch112 (at) gmail.com
 
